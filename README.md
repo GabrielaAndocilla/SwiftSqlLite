@@ -1,6 +1,6 @@
 # Swift_APPBasics
 
-Es un proyecto, donde se puede observar la implementación de funcionalidades básicas para una aplicación de Swift
+Es un proyecto, donde se puede observar la implementación de Sql Lite para una aplicación de Swift
 
 ### Consideraciones 🔧
 
