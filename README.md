@@ -1,4 +1,4 @@
-# Swift_APPBasics
+# Swift SqlLite
 
 Es un proyecto, donde se puede observar la implementación de Sql Lite para una aplicación de Swift.
 
@@ -13,6 +13,7 @@ SQLLocalViewController -> Permite el almacenamiento de los datos
 
 Lectura:
 ViewSqlTableViewController -> Permite traer los datos de Sql y mostrarlos en un TableView
+
 CustomsSqlTableViewCell -> Permite dar el formato de la celda que se usará en el Table View
 
 ### Consideraciones 🔧
