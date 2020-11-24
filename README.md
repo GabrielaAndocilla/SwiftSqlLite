@@ -23,7 +23,7 @@ Debido a que es una aplicación para iOS, este se puede ejecutar únicamente en 
 Librerias que se necesitan para que todo el programa funcione correctamente
 
 Para las clases de SQL Lite:
-##### SQLite3
+#### SQLite3
 
 Librerias para las funcionalidades adicionales 
 UserNotifications
